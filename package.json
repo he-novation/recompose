@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git://github.com/acdlite/recompose.git"
   },
+  "version":"0.30.0",
   "license": "MIT",
   "scripts": {
     "lint": "eslint scripts src",
